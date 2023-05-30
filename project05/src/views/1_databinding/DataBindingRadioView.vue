@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h3>checkbox 바인딩</h3>
+    <h3>Radio 바인딩</h3>
     <div>
       <input type="radio" id="html" value="HTML" v-model="favoriteLang">
       <label for="html">HTML</label>
